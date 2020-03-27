@@ -1,0 +1,41 @@
+.jumbotron {
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  margin-bottom: 0px;
+}
+
+.form-group {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.burger-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 40px; 
+  min-height: 600px;
+  background-color: #f5b042;
+  
+}
+
+.burger-menu {
+  width: 400px;
+  margin: 0px 50px 50px 50px;
+  padding: 30px;
+  background-color: darkgrey;
+}
+
+.burger-devoured {
+  width: 400px;
+  margin: 0px 50px 50px 50px;
+  padding: 30px;
+  background-color: darkgrey;
+}
+
+.card {
+  background-color: white;
+}
+
+
